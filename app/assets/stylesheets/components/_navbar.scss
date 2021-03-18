@@ -1,12 +1,33 @@
-.navbar-lewagon {
-  justify-content: space-between;
-  background: white;
+.jvm-navbar {
+  background-color: white;
+  height: 7vh;
+}
+.navbar-links-div {
+  margin-left: 118vh;
+  font-size: 40px;
+  margin-top: -8.3vh;
+}
+.navbar-links-list {
+  display: flex;
+  list-style: none;
+}
+.nav-link {
+  font-family: ‘Roboto Condensed’, sans-serif;
+  color: black;
 }
 
-.navbar-lewagon .navbar-collapse {
-  flex-grow: 0;
+.nav-link:hover {
+  color: black;
 }
 
-.navbar-lewagon .navbar-brand img {
-  width: 40px;
+.beuhne {
+  font-family: ‘Roboto Condensed’, sans-serif;
+  font-size: 40px;
+  margin-left: 1vh;
+  color: black;
+  text-decoration: none;
+}
+
+.beuhne:hover {
+  color: black;
 }

@@ -1,0 +1,144 @@
+* {
+  background-color: white;
+}
+
+.upper-container {
+  display: flex;
+  background-color: white;
+}
+
+.video-div {
+  width: 60%
+}
+
+.text-div {
+  width: 40%;
+}
+
+.text-box {
+  width: 85%;
+  margin-top: 16vh;
+  margin-left: 4%;
+}
+
+.header1 {
+  font-family: ‘Roboto Condensed’, sans-serif;
+  color: black;
+  font-size: 24px;
+}
+
+.header2 {
+  font-family: ‘Roboto Condensed’, sans-serif;
+  color: black;
+  font-size: 30px;
+  margin-top: 3vh;
+}
+
+.summary {
+  font-family: ‘Roboto Condensed’, sans-serif;
+  color: black;
+  font-size: 20px;
+  margin-top: 2vh;
+}
+
+.read-more {
+  font-family: ‘Roboto Condensed’, sans-serif;
+  margin-top: 3vh;
+}
+
+// .btn-read {
+//   font-family: ‘Roboto Condensed’, sans-serif;
+//   color: black;
+//   font-size: 16px;
+//   margin-top: 3vh;
+//   // border-color: black;
+//   border: 1.5px solid black;
+//   padding: 0.5vh;
+//   padding-right: 1vh;
+//   padding-left: 1vh;
+//   margin-left: 1vh;
+// }
+
+.scroll-text {
+  margin-top: 12vh;
+  margin-left: 38vh;
+}
+
+.scroll-arrow {
+  width: 5%;
+  margin-left: 43vh;
+  margin-top: -4vh;
+}
+
+// .video-placeholder {
+//   // background-color: grey;
+//   width: 90vh;
+//   height: 50vh;
+//   margin-top: 10vh;
+//   margin-left: 8vh;
+// }
+
+.videowrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0px;
+  margin-top: 8vh;
+  width: 90%;
+  margin-left: 6%;
+}
+
+.videowrapper iframe {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 85%;
+  width: 100%;
+}
+
+
+.banner-div {
+  margin-top: 2vh;
+  margin-left: 4.5vh;
+  background-color: white;
+}
+
+.story {
+  width: 60%;
+  margin-left: 20%;
+  margin-top: 10vh;
+  margin-bottom: 12vh;
+  font-family: ‘Roboto Condensed’, sans-serif;
+}
+
+.hauptprotagonist-header {
+  color: black;
+  font-size: 24px;
+  margin-bottom: 8vh;
+}
+
+.hauptprotagonist-box {
+  display: flex;
+  margin-top: 3vh;
+}
+
+.hauptprotagonist {
+  color: black;
+  font-size: 20px;
+  width: 20%;
+  margin-right: 5%;
+}
+
+.hauptprotagonist-description {
+  width: 75%;
+  font-size: 18px;
+}
+
+.absatz {
+  color: black;
+  font-size: 20px;
+  margin-top: 5vh;
+}
+
